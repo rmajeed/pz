@@ -1,0 +1,5 @@
+E:\Projects\Khilafah\Perfumazon\Entities\bin\Debug\Entities.dll.config
+E:\Projects\Khilafah\Perfumazon\Entities\bin\Debug\Entities.dll
+E:\Projects\Khilafah\Perfumazon\Entities\bin\Debug\Entities.pdb
+E:\Projects\Khilafah\Perfumazon\Entities\obj\Debug\Entities.dll
+E:\Projects\Khilafah\Perfumazon\Entities\obj\Debug\Entities.pdb

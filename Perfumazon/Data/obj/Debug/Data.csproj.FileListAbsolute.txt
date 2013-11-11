@@ -1,0 +1,8 @@
+E:\Projects\Khilafah\Perfumazon\Data\bin\Debug\Data.dll
+E:\Projects\Khilafah\Perfumazon\Data\bin\Debug\Data.pdb
+E:\Projects\Khilafah\Perfumazon\Data\bin\Debug\MySql.Data.dll
+E:\Projects\Khilafah\Perfumazon\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\Projects\Khilafah\Perfumazon\Data\obj\Debug\Data.dll
+E:\Projects\Khilafah\Perfumazon\Data\obj\Debug\Data.pdb
+E:\Projects\Khilafah\Perfumazon\Data\bin\Debug\Entities.dll
+E:\Projects\Khilafah\Perfumazon\Data\bin\Debug\Entities.pdb
